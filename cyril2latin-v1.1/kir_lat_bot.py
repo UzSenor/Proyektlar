@@ -1,6 +1,6 @@
 import telebot
 import re
-bot = telebot.TeleBot('5526836670:AAG2885QNQTyMSjIQrv4RavyMKgX9_eQqJw')
+bot = telebot.TeleBot('Token kodi')
 
 
 @bot.message_handler(commands=['start'])
